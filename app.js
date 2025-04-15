@@ -1,1 +1,0 @@
-alert('Jesus Te ama')
